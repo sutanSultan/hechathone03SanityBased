@@ -10,15 +10,15 @@ const About = () => {
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
           <div className="bg-white p-6 rounded-lg shadow-md fadeIn">
-            <h2 className="text-2xl font-bold mb-4">John Doe</h2>
+            <h2 className="text-2xl font-bold mb-4">MUHAMMAD SULTAN</h2>
             <p className="text-gray-700">CEO</p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md fadeIn">
-            <h2 className="text-2xl font-bold mb-4">Jane Smith</h2>
+            <h2 className="text-2xl font-bold mb-4">MUHAMMAD SULTAN</h2>
             <p className="text-gray-700">CTO</p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md fadeIn">
-            <h2 className="text-2xl font-bold mb-4">Alice Johnson</h2>
+            <h2 className="text-2xl font-bold mb-4">MUHAMMAD SULTAN</h2>
             <p className="text-gray-700">COO</p>
           </div>
         </div>
